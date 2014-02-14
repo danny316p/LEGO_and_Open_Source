@@ -4,10 +4,18 @@ This is a slide-based presentation prepared for ease of use by anyone, anywhere,
 
 This slideshow is currently offered as an S5 presentation for maximum portability - you can view it as a text-only handout, as a slideshow in any modern web browser, and even without an internet connection (provided you've already downloaded the presentation itself).
 
+# Getting Started
+
+Do you just want to view the presentation in your browser without digging through code or cloning the repository first? Here's a direct link:
+http://danny316p.github.io/LEGO_and_Open_Source/s5/s5-lego_and_open_source.html
+
+Similarly, if you're looking for where to edit the content of this presentation, the path is s5/s5-lego_and_open_source.html
+
 # Other code used in this presentation
 
 GitHub ribbons: https://github.com/blog/273-github-ribbons
 S5: A Simple Standards-Based Slide Show System: http://meyerweb.com/eric/tools/s5/
+gh-pages as default branch instead of master: http://oli.jp/2011/github-pages-workflow/
 
 # Licensing
 
