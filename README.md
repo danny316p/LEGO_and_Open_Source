@@ -13,9 +13,9 @@ Similarly, if you're looking for where to edit the content of this presentation,
 
 # Other code used in this presentation
 
-GitHub ribbons: https://github.com/blog/273-github-ribbons
-S5: A Simple Standards-Based Slide Show System: http://meyerweb.com/eric/tools/s5/
-gh-pages as default branch instead of master: http://oli.jp/2011/github-pages-workflow/
+* GitHub ribbons: https://github.com/blog/273-github-ribbons
+* S5: A Simple Standards-Based Slide Show System: http://meyerweb.com/eric/tools/s5/
+* gh-pages as default branch instead of master: http://oli.jp/2011/github-pages-workflow/
 
 # Licensing
 
