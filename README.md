@@ -18,8 +18,7 @@ Similarly, if you're looking for where to edit the content of this presentation,
 * gh-pages as default branch instead of master: http://oli.jp/2011/github-pages-workflow/
 
 # Licensing
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 United States License.
-http://creativecommons.org/licenses/by-sa/3.0/us/
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+https://creativecommons.org/licenses/by-sa/4.0/
 
 You are highly encouraged to fork this presentation on GitHub and submit a pull request to contribute your fixes back to this project. The "Attribution" aspect of this license applies not to the individual authors involved but to this project on GitHub, and the community that supports it.
