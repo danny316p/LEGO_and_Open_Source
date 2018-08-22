@@ -156,32 +156,43 @@ Disclaimer: Note that not everything mentioned in this presentation has a proper
 <div class="slide">
 <h1>Software: LDraw</h1>
 <ul class="incremental">
-<li>Gold standard for LEGO CAD, started in 1995</li>
-<li>(Arguably) better than LEGO's officially released proprietary software (Creator, Digital Designer)</li>
+<li>Open standard for LEGO CAD, started as an unlicensed DOS program in 1995. The LDraw file format, tools, and community all now use the name of this original program.</li>
+<li>The world of fan-created LDraw tools is (arguably) better than LEGO's officially released proprietary software (Creator, Digital Designer)</li>
 <li>The official Digital Designer program has some support for LDraw's text-based file formats (see <a href="http://wiki.ldraw.org/index.php?title=LEGO_Digital_Designer">http://wiki.ldraw.org/index.php?title=LEGO_Digital_Designer</a> and <a href="http://wiki.ldraw.org/index.php?title=LDraw_to_LDD_conversion">http://wiki.ldraw.org/index.php?title=LDraw_to_LDD_conversion</a> for more)</li>
-<li>Used for documenting and sharing original creations, and for generating building instructions. LDraw parts and software are licensed CC BY 2.0.</li>
+<li>Used for documenting and sharing original creations, for animating and rendering models, and for generating building instructions. The LDraw file format and parts library are licensed CC BY 2.0.</li>
 </ul>
 </div>
 
 <div class="slide">
-<h1>Software: LDraw enhancements</h1>
+<h1>Software: LDraw Editors with a Graphical User Interface</h1>
 <ul class="incremental">
-<li>MLCad - graphical user interface for LDraw <a href="http://mlcad.lm-software.com/">http://mlcad.lm-software.com/</a>  (closed source, but the most popular user interface for LDraw)</li>
+<li>MLCad - most popular GUI for LDraw <a href="http://mlcad.lm-software.com/">http://mlcad.lm-software.com/</a>  (closed source freeware)</li>
+<li>LeoCAD - the most truly Open Source: <a href="https://www.leocad.org/">https://www.leocad.org/</a> (GPLv2)</li>
+<li>Bricksmith - LDraw GUI program for Mac: <a href="http://bricksmith.sourceforge.net/">http://bricksmith.sourceforge.net/</a> (BSD license)</li>
+<li>ldglite - lightweight and portable: <a href="https://github.com/deeice/ldglite">https://github.com/deeice/ldglite</a> (missing license)</li>
+<li>LDCad - supports a scripting API and basic part snapping: <a href=http://www.melkert.net/LDCad/">http://www.melkert.net/LDCad/features</a> (closed source freeware)</li>
+</ul>
+</div>
+
+<div class="slide">
+<h1>Software: LDraw tools</h1>
+<ul class="incremental">
 <li>LPub - documentation publishing tool preferred for creating building instructions: <a href="http://lpub.sourceforge.net/">http://lpub.sourceforge.net/</a> (GPLv2))</li>
 <li>LPub3D - editor for creating digital building instructions: <a href="https://sourceforge.net/projects/lpub3d/">https://sourceforge.net/projects/lpub3d/</a> and <a href="https://trevorsandy.github.io/lpub3d/">https://trevorsandy.github.io/lpub3d/</a>(GPLv3)</li>
-<li>LeoCAD - Separate CAD program using same parts file format (and can export LDraw file formats): <a href="http://www.leocad.org/trac">http://www.leocad.org/trac</a> (GPLv2)</li>
-<li>LDraw-Sketchup-Plugin - tool to import LDraw files into SketchUp: <a href="https://github.com/dannystaple/LDraw-Sketchup-Plugin">https://github.com/dannystaple/LDraw-Sketchup-Plugin</a></li>
+<li>LDraw-Sketchup-Plugin - tool to import LDraw files into SketchUp: <a href="https://github.com/dannystaple/LDraw-Sketchup-Plugin">https://github.com/dannystaple/LDraw-Sketchup-Plugin</a> (CC BY SA 3.0)</li>
+<li>LDraw Linux Command line Utilities (L2CU) - bash utilities for manipulating LDraw files: <a href="https://github.com/nathaneltitane/ldraw">https://github.com/nathaneltitane/ldraw</a> (missing license)</li>
 </ul>
 </div>
 
 <div class="slide">
-<h1>Software: LDraw enhancements</h1>
+<h1>Software: LDraw tools</h1>
 <h2>(continued)</h2>
 <ul class="incremental">
-<li>Bricksmith - LDraw GUI program for Mac: <a href="http://bricksmith.sourceforge.net/">http://bricksmith.sourceforge.net/</a> (BSD license)</li>
-<li>LDView - OpenGL rendering program for viewing LDraw models: <a href="http://ldview.sourceforge.net/">http://ldview.sourceforge.net/</a> </li>
-<li>LSynth - program that synthesizes bendable parts for LDraw files: <a href="http://lsynth.sourceforge.net/">http://lsynth.sourceforge.net/</a> (GPLv2)</li>
-<li>LSculpt - program that converts triange mesh 3D models into LDraw files: <a href="http://lego.bldesign.org/LSculpt/index_old.html">http://lego.bldesign.org/LSculpt/index_old.html</a> and <a href="https://code.google.com/p/lsculpt/">https://code.google.com/p/lsculpt/</a> (GPLv3)</li>
+<li>LDView - OpenGL rendering program for viewing LDraw models: <a href="http://ldview.sourceforge.net/">http://ldview.sourceforge.net/</a> (GPL)</li>
+<li>LSynth - program that synthesizes bendable parts for LDraw files: <a href="https://github.com/deeice/lsynth">https://github.com/deeice/lsynth</a> (GPLv2)</li>
+<li>LSculpt - program that converts triangle mesh 3D models into LDraw files: <a href="http://lego.bldesign.org/LSculpt/index_old.html">http://lego.bldesign.org/LSculpt/index_old.html</a> and <a href="https://code.google.com/p/lsculpt/">https://code.google.com/p/lsculpt/</a> (GPLv3)</li>
+<li>LDPatternCreator - tool for creating and editing vector based graphics on parts: <a href="https://sourceforge.net/projects/patterncreator/">https://sourceforge.net/projects/patterncreator/</a> (MIT license)</li>
+<li>txt2dat - tool for creating virtual stickers to put words on parts: <a href="http://www.br-eng.info/my-lego-roscomenu-29/my-ldraw-roscomenu-45/50-txt2dat">http://www.br-eng.info/my-lego-roscomenu-29/my-ldraw-roscomenu-45/50-txt2dat</a> (GPLv2)</li>
 </ul>
 </div>
 
@@ -215,10 +226,11 @@ Disclaimer: Note that not everything mentioned in this presentation has a proper
 <div class="slide">
 <h1>Software: Bluebrick</h1>
 <ul class="incremental">
-<li>Gold standard for LEGO train clubs planning group layouts</li>
+<li>Gold standard for LEGO train clubs planning group layouts, including modern snap-to-grid and multi-layer features.</li>
 <li><a href="http://bluebrick.lswproject.com/">http://bluebrick.lswproject.com/</a> (GPLv3) </li>
 <li>Replaces Windows (.NET-based) open source project TrackDraw <a href="https://sourceforge.net/projects/trackdraw/">http://sourceforge.net/projects/trackdraw/</a></li>
-<li>...which itself superceded the closed-source Track Designer program</li>
+<li>...which itself superseded the closed-source Track Designer program</li>
+<li>Backwards compatible to handle Track Designer files, and can even export layouts in LDraw format.</li>
 </ul>
 </div>
 
