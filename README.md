@@ -22,3 +22,6 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 https://creativecommons.org/licenses/by-sa/4.0/
 
 You are highly encouraged to fork this presentation on GitHub and submit a pull request to contribute your fixes back to this project. The "Attribution" aspect of this license applies not to the individual authors involved but to this project on GitHub, and the community that supports it.
+
+# Events
+A list of events where these slides have been presented is on this project's wiki at https://github.com/danny316p/LEGO_and_Open_Source/wiki#presentations-of-lego-and-open-source
