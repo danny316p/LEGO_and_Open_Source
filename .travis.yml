@@ -1,1 +1,10 @@
-travis-web-check/.travis.yml
+dist: trusty
+sudo: required
+
+install:
+  - sudo pip install proselint
+  - sudo apt-get install aspell
+  - sudo apt-get install lynx lynx-cur
+
+script:
+  - ./find_problems.sh
