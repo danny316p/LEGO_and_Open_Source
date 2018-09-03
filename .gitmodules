@@ -1,0 +1,3 @@
+[submodule "travis-web-check"]
+	path = travis-web-check
+	url = https://github.com/danny316p/travis-web-check.git
