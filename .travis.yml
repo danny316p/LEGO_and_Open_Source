@@ -11,4 +11,5 @@ install:
   - sudo apt-get install lynx lynx-cur
 
 script:
+  - cp s5/s5-lego_and_open_source.html s5-lego_and_open_source.html
   - ./find_problems.sh
