@@ -1,6 +1,6 @@
 # LEGO and Open Source
 
-This is a slide-based presentation prepared for ease of use by anyone, anywhere, for use in discussing how the LEGO fan community and the open source community play off each other.
+This is a slide-based presentation prepared for ease of use by anyone, anywhere, for use in discussing how the LEGO fan community and the Open Source community play off each other.
 
 This slideshow is currently offered as an S5 presentation for maximum portability - you can view it as a text-only handout, as a slideshow in any modern web browser, and even without an internet connection (provided you've already downloaded the presentation itself).
 
